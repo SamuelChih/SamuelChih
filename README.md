@@ -1,4 +1,9 @@
- Hi, I’m @Samuel Chih, and I am a User Interface Designer and a Programmer.
+ <img height="200px" width="200px" src="https://storage.googleapis.com/downloads.webmproject.org/webp/images/dancing_banana2.lossless.webp">
+</div>
+
+## (●'◡'●) Hey, I'm Sam!
+I am a senior from Cal Poly Pomona with a Computer Science degree. I am doing user interface design and graphic design.
+
 - [x]  I’m sklled at: 
    - User Interface Design tool: Adobe Suite (Photoshop, Illustrator, InDesign, Adobe XD), Figma
    - Programming language: Java, Python, TypeScript, HTML, CSS, JavaScript 
