@@ -1,8 +1,9 @@
  <img height="200px" width="200px" src="https://storage.googleapis.com/downloads.webmproject.org/webp/images/dancing_banana2.lossless.webp">
 </div>
 
-## 👋Hey, I'm Sam!
-I am a senior in Cal Poly Pomona with a Computer Science degree Graduatibg in Spring 2023. I am doing user interface design and graphic design right now.
+## 👋Hey there, I'm Sam!
+I'm a senior in Cal Poly Pomona with a Computer Science degree Graduating in Spring 2023. 
+Focusing on user interface, web design, and graphic design right now.
 
 - [x]  I’m sklled at: 
    - User Interface Design tool: Adobe Suite (Photoshop, Illustrator, InDesign, Adobe XD), Figma
