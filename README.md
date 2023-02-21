@@ -1,12 +1,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SamuelChih&show_icons=true&theme=onedark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SamuelChih">
+  <img height="auto" width="42%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SamuelChih">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelChih&layout=compact&exclude_repo=Hardware-Course&theme=onedark&hide=ASP.NET,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=5">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelChih&layout=compact">
+  <img height="auto" width="35%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelChih&layout=compact">
 </picture>
 
 
