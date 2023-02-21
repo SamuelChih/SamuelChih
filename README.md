@@ -15,7 +15,15 @@ As an aspiring Computer Science professional, I am currently a senior at Cal Pol
 
 - [x]  I’m sklled at: 
    - User Interface Design tool: Adobe Suite (Photoshop, Illustrator, InDesign, Adobe XD), Figma
-   - Programming language: Java, Python,  HTML, CSS, JavaScript, TypeScript
+   - Programming language: Java, Python ,  HTML, CSS, JavaScript, TypeScript 
+     <br/>
+     ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
+     ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+     ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+     ![Android](https://img.shields.io/badge/-Android-008000?style=flat-square&logo=android&labelColor=008000&logoColor=fff) 
+     ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
+     ![Python](https://img.shields.io/badge/-Python-4B0082?style=flat-square&logo=python&logoColor=fff) 
+     ![Vue](https://img.shields.io/badge/Vue.js-800080?style=flat-square&logo=vuedotjs&logoColor=fff)
    - Technology/Framework: JavaFX, ReactJS, Vue, GraphGL, Docker, Bootstrap, Google Cloud Platform
    - Developer Tools: VSCode, Git, IntelliJ, Eclipse, Visual Studio, Git, Github
    - Art and Craft: Graphic design, Sticker, Vinyl, T-shirt Design
