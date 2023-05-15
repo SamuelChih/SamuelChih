@@ -14,8 +14,8 @@
 As an aspiring Computer Science professional, I am currently a senior at Cal Poly Pomona and am set to graduate in Spring 2023. With a keen interest in user interface, web design, and graphic design, I am confident in my ability to bring a unique perspective to any project I work on.
 
 - [x]  I’m sklled at: 
-   - User Interface Design tool: Adobe Suite (Photoshop, Illustrator, InDesign, Adobe XD), Figma
-   - Programming language: Java, Python ,  HTML, CSS, JavaScript, TypeScript 
+   - User Interface Design related tool: Adobe Suite (Photoshop, Illustrator, InDesign, Adobe XD), Figma, Google Analytics
+   - Programming language: Java, Python, Dart, TypeScript, HTML, CSS, JavaScript
      <br/>
      ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
      ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
@@ -24,8 +24,8 @@ As an aspiring Computer Science professional, I am currently a senior at Cal Pol
      ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
      ![Python](https://img.shields.io/badge/-Python-4B0082?style=flat-square&logo=python&logoColor=fff) 
      ![Vue](https://img.shields.io/badge/Vue.js-800080?style=flat-square&logo=vuedotjs&logoColor=fff)
-   - Technology/Framework: JavaFX, ReactJS, Vue, GraphGL, Docker, Bootstrap, Google Cloud Platform
-   - Developer Tools: VSCode, Git, IntelliJ, Eclipse, Visual Studio, Git, Github
+   - Technology/Framework: JavaFX, JUnit, GraphQL, Docker, Flutter, Bootstrap, React, Google Cloud Platform
+   - Developer Tools: Visual Studio, Visual Studio Code, IntelliJ, Eclipse, Android Studio, Git, Github
    - Art and Craft: Graphic design, Sticker, Vinyl, T-shirt Design
 
 - [ ]   I’m currently learning🌱...
