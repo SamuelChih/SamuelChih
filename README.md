@@ -1,14 +1,8 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SamuelChih&show_icons=true&theme=onedark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img height="auto" width="52%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SamuelChih">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelChih&layout=compact&exclude_repo=Hardware-Course&theme=onedark&hide=ASP.NET,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=5">
-  <img height="auto" width="43.5%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelChih&layout=compact">
-</picture>
-
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChih&langs_count=5&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Talented+vue+frontend+engineer;Experienced+Graphic+Designer;Honest+smart++developer;" />
+</p>
 
 ## Hey there, I'm Sam!  <img height="5%" width="5%" src="https://storage.googleapis.com/downloads.webmproject.org/webp/images/dancing_banana2.lossless.webp"> 
 As an aspiring Computer Science professional, I am currently a senior at Cal Poly Pomona and am set to graduate in Spring 2023. With a keen interest in user interface, web design, and graphic design, I am confident in my ability to bring a unique perspective to any project I work on.
@@ -26,7 +20,7 @@ As an aspiring Computer Science professional, I am currently a senior at Cal Pol
      ![Vue](https://img.shields.io/badge/Vue.js-800080?style=flat-square&logo=vuedotjs&logoColor=fff)
    - Technology/Framework: JavaFX, JUnit, GraphQL, Docker, Flutter, Bootstrap, React, Google Cloud Platform
    - Developer Tools: Visual Studio, Visual Studio Code, IntelliJ, Eclipse, Android Studio, Git, Github
-   - Art and Craft: Graphic design, Sticker, Vinyl, T-shirt Design
+   - Art & Craft: Graphic design, Sticker, Vinyl, T-shirt Design
 
 - [ ]   I’m currently learning🌱...
    - 3D Printing
